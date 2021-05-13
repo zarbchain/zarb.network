@@ -106,6 +106,15 @@ module.exports = {
           ],
         },
       ],
+      "dev":[
+        {
+          title: "Dev",
+          collapsable: false,
+          children: [
+            "index"
+          ],
+        },
+      ]
     },
   },
 
